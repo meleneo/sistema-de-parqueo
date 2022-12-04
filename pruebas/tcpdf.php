@@ -82,7 +82,7 @@ $html = '
 		<b>Fecha de ingreso: </b> 25/11/2022<br>
 		<b>Hora de ingreso:  </b> 22:58<br>
 		---------------------------------------------------------------------------------<br>
-		<b>USUARIO: </b>PANFILO PISTO
+		<b>USUARIO: </b>PANCHO PISTOLAS
 		</div>
 	</p>
 </div>
